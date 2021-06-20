@@ -1,16 +1,12 @@
 # to_do_app
 
-A new Flutter project.
+Three Screens ( new tasks , Done , Archived Tasks )
+Using:
+1- Bloc & cubic
+2- Sqflite
+3- Clean Code
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+https://user-images.githubusercontent.com/85360095/122668176-38607d00-d1b7-11eb-9536-a759cdc905fe.mp4
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
